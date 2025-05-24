@@ -7,6 +7,12 @@ S Rock Music flutter sample code.
 https://www.figma.com/design/3Y2j3uhDLCuuxTgziD1mY2/Assignment---Flutter--Copy-?node-id=0-1&t=b2XiVNNh4WoGSgMo-1
 ```
 
+## App Video
+[Watch demo video](https://github.com/Bhai4You/s_rock_music/raw/refs/heads/main/demo/video6165441466261837731.mp4)
+
+
+
+
 ## 📂 Folder Structure
 
 ```
